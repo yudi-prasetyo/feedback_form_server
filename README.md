@@ -1,12 +1,6 @@
-
-### Server (FastAPI) `README.md`
-
-#### `server/README.md`
-
-```markdown
 # Feedback App Server
 
-This is the backend application for the Feedback App, built with FastAPI. It provides APIs to submit and retrieve feedback ratings.
+This is the backend application for the Feedback App, built with FastAPI and PostgreSQL. It provides APIs to submit and retrieve feedback ratings.
 
 ## Features
 
