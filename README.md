@@ -24,13 +24,13 @@ This is the backend application for the Feedback App, built with FastAPI. It pro
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/feedback-app-server.git
+   git clone https://github.com/yudi-prasetyo/feedback_form_server.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd feedback-app-server
+   cd feedback_form_server
    ```
 
 3. Create a virtual environment:
